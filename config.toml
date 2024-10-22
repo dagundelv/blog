@@ -1,7 +1,7 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'Hereditics1'
-theme = "hugo-book"
+title = 'Hereditics'
+theme = "hyde"
 
 [Menus]
   main = [
