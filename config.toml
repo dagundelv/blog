@@ -1,7 +1,7 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = '打滚的驴'
-theme = "hyde"
+theme = "hugo-book"
 
 [Menus]
   main = [
