@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = '打滚的驴'
+title = 'Hereditics'
 theme = "hyde"
 
 [Menus]
